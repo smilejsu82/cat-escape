@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/ClimbCloud.unity
-    guid: abd3154cc0de7eb4f92e7741836dfead
+    path: Assets/Scenes/GameScene.unity
+    guid: de024cee28f224b4d8c61afd1fa21850
   - enabled: 1
-    path: Assets/Scenes/ClimbCloudClear.unity
-    guid: 54309ce9e95349b40b6b7d10a0ebb4b0
+    path: Assets/Scenes/VillegeScene.unity
+    guid: 9bc6c172f7573fb479de3ede0ab2fca9
   m_configObjects: {}
